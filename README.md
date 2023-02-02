@@ -3,7 +3,7 @@
 A simple graphics project built in C++ that displays a moving bicycle.
 
 ## Screenshot
-![Bicycle Screenshot](assets/bicycle.png)
+![Bicycle Screenshot](https://user-images.githubusercontent.com/90265701/216325712-dcad05bc-91ec-4271-8103-abf86149a3ae.png)
 
 ## Getting Started
 
